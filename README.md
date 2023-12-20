@@ -1,6 +1,6 @@
-# Studio
+# Shoaib
 
-Studio is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+Developed a blog site for myplaza.io website
 
 ## Getting started
 
